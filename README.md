@@ -3,7 +3,8 @@
 A maze puzzle game based on the motion of electrons and its interaction with various gates.  </B> 
 
 Instructions:  
-<li>Please use full-screen mode. You can try to run on Internet Explorer if it doesn't run on Chrome.  
+<li></li>
+<li>Please use full-screen mode. You can try the WebGL to run on Internet Explorer if it doesn't run on Chrome.  
 <li>Move your electrons using WSAD.  
 <li>The highlighted electron cannot move through walls.  
 <li>The unhighlighted electron moves in the opposite direction and can move through walls.  
